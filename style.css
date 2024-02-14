@@ -66,6 +66,8 @@ h1 {
 main {
     line-height: 1.6;
     color: #333;
+    font-family: 'Georgia', serif; /* Change the font family */
+    font-size: 18px; /* Adjust the font size */
 }
 
 footer {
